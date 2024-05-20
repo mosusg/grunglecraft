@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "grungle_dust",
+  "ingredients": [
+    {
+      "item": "grunglecraft:grungle_shard"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "grunglecraft:grungle_dust"
+  }
+}

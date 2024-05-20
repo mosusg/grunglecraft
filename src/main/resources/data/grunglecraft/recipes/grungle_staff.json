@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "grungle_staff",
+  "key": {
+    "#": {
+      "item": "grunglecraft:grungle_orb"
+    },
+    "$": {
+      "item": "grunglecraft:grungle_charge"
+    },
+    "@": {
+      "item": "grunglecraft:scringle_rod"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "#@#",
+    " @ "
+  ],
+  "result": {
+    "id": "grunglecraft:grungle_staff"
+  }
+}

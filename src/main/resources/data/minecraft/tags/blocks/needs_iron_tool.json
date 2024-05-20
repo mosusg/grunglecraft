@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "grunglecraft:grungle_ore",
+    "grunglecraft:deepslate_grungle_ore",
+    "grunglecraft:grungle_block"
+  ]
+}

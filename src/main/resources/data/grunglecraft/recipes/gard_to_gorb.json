@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gorb",
+  "key": {
+    "#": {
+      "item": "grunglecraft:grungle_shard"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "grunglecraft:grungle_orb"
+  }
+}

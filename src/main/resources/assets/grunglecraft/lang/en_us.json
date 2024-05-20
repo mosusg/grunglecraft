@@ -1,0 +1,15 @@
+{
+  "item.grunglecraft.grungle_staff": "Grungle Staff",
+  "item.grunglecraft.grungle_orb": "Grungle Orb",
+  "item.grunglecraft.grungle_dust": "Grungle Dust",
+  "item.grunglecraft.grungle_shard": "Grungle Shard",
+  "item.grunglecraft.scringle_rod": "Scringle Rod",
+  "item.grunglecraft.scringle_charge": "Scringle Charge",
+  "item.grunglecraft.grungle_charge": "Grungle Charge",
+
+  "block.grunglecraft.grungle_ore": "Grungle Ore",
+  "block.grunglecraft.deepslate_grungle_ore": "Deepslate Grungle Ore",
+  "block.grunglecraft.grungle_block": "Grungle Block",
+
+  "itemgroup.grungle": "Grunglecraft"
+}

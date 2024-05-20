@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "grunglecraft:block/deepslate_grungle_ore"
+  }
+}

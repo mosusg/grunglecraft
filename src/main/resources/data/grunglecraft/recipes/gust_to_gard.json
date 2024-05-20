@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "grungle_shard",
+  "key": {
+    "#": {
+      "item": "grunglecraft:grungle_dust"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "grunglecraft:grungle_shard"
+  }
+}
