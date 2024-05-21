@@ -22,6 +22,8 @@ public class ModBlocks {
     public static final Block GRUNGLE_BLOCK = registerBlock("grungle_block",
             new Block(FabricBlockSettings.copyOf(Blocks.SLIME_BLOCK).nonOpaque().strength(1.25F, 4.2F)));
 
+    public static final Block HELL_NAW_BLOCK = registerBlock("hell_naw_block",
+            new HellNahBlock(FabricBlockSettings.copyOf(Blocks.OBSIDIAN)));
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(Grunglecraft.MOD_ID, name), block);

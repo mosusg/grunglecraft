@@ -27,6 +27,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GRUNGLE_ORE);
                         entries.add(ModBlocks.DEEPSLATE_GRUNGLE_ORE);
                         entries.add(ModBlocks.GRUNGLE_BLOCK);
+                        entries.add(ModBlocks.HELL_NAW_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {

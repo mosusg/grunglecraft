@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "grunglecraft:block/hell_naw_block_top",
+    "side": "grunglecraft:block/hell_naw_block_side"
+  }
+}
